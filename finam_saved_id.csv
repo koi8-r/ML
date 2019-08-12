@@ -1,7 +1,7 @@
-id;code;market
-175924;POLY;1
-16842;GAZP;1
-4;SNGS;1
-795;GMKN;1
-4;SNGS;1
-825;TATN;1
+id;code;market;links
+175924;POLY;1;
+16842;GAZP;1;
+4;SNGS;1;
+795;GMKN;1;
+4;SNGS;1;
+825;TATN;1;https://www.moex.com/ru/contract.aspx?code=TTU9
